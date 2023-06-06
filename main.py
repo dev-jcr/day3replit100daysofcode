@@ -19,6 +19,8 @@
 #print("There was a person called", person)
 #print("Who did something cool like", thing, "at the wonderful", place, "where you'll find me", rhyme)
 
+# Concatenation practice
+
 print("Recipe")
 food = input("Name a food > ")
 plant = input("Name a type of plant > ")
